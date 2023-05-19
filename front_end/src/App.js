@@ -1,13 +1,11 @@
 import React from 'react';
-import Auth from './Components/Auth/Auth'
 import './App.css'
-import Header from './Components/Auth/Header';
+import HomePage from './Components/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      {/* <Auth/> */}
+      <HomePage />
     </div>
   );
 }

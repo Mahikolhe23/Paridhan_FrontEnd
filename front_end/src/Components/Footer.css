@@ -1,0 +1,30 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+.footer-content {
+    display: flex;
+    align-items: center;
+}
+
+.social-media a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.policy-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+.footer p {
+    font-size: 14px;
+    margin-left: 10px;
+}
