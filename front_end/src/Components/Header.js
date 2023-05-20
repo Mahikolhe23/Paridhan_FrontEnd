@@ -1,23 +1,21 @@
 import React from 'react';
 import './Header.css';
-import home1 from '../images/home1.jpg';
-import home2 from '../images/home2.jpg';
-import home3 from '../images/home3.jpg';
+import { Link } from 'react-router-dom';
+
 const Header = () => {
     return (
         <div>
             <nav className="navbar">
                 <div className="logo">Paridhan</div>
                 <ul className="nav-links">
-                    <li><a href="#about">About Us</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li><a href="#login">Login</a></li>
+                    <li>
+                        <Link to="/about">About Us</Link>
+                    </li>
+                    <li>
+                        <Link to="/contact">Contact</Link>
+                    </li>
                 </ul>
             </nav>
-            <div className="content">
-                <h1>Welcome to Paridhan</h1>
-                
-            </div>
         </div>
     );
 };
