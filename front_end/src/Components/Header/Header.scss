@@ -95,6 +95,8 @@
     &.sticky-header {
         position: sticky;
         top: 0;
+        transform: translateY(-80px);
+        animation: stickyHeader 0.3s ease forwards;
     }
 }
 
