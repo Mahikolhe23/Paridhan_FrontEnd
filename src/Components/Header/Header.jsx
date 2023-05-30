@@ -29,6 +29,7 @@ const Header = () => {
                 <ul className="left">
                     <li>Home</li>
                     <li>About</li>
+                    <li>PCC</li>
                     <li>Categories</li>
                 </ul>
                 <div className="center">Paridhan</div>
