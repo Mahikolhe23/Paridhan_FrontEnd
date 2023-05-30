@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/Paridhan_FrontEnd/static/css/main.1cf5e08f.css",
-    "main.js": "/Paridhan_FrontEnd/static/js/main.048750eb.js",
+    "main.css": "/Paridhan_FrontEnd/static/css/main.4f3e73e2.css",
+    "main.js": "/Paridhan_FrontEnd/static/js/main.b2bd6a83.js",
+    "static/media/banner-img.png": "/Paridhan_FrontEnd/static/media/banner-img.0412d66280a0273effa2.png",
+    "static/media/newsletter-bg.jpeg": "/Paridhan_FrontEnd/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
     "index.html": "/Paridhan_FrontEnd/index.html",
-    "main.1cf5e08f.css.map": "/Paridhan_FrontEnd/static/css/main.1cf5e08f.css.map",
-    "main.048750eb.js.map": "/Paridhan_FrontEnd/static/js/main.048750eb.js.map"
+    "main.4f3e73e2.css.map": "/Paridhan_FrontEnd/static/css/main.4f3e73e2.css.map",
+    "main.b2bd6a83.js.map": "/Paridhan_FrontEnd/static/js/main.b2bd6a83.js.map"
   },
   "entrypoints": [
-    "static/css/main.1cf5e08f.css",
-    "static/js/main.048750eb.js"
+    "static/css/main.4f3e73e2.css",
+    "static/js/main.b2bd6a83.js"
   ]
 }
