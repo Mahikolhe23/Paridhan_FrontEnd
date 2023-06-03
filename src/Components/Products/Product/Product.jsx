@@ -1,5 +1,5 @@
 import "./Product.scss";
-import prod from '../../../assets/products/earbuds-prod-1.webp';
+import prod from '../../../images/home6.jpg';
 const Product = () => {
     return (
         <div className="product-card">
