@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/Paridhan_FrontEnd/static/css/main.a6b88399.css",
-    "main.js": "/Paridhan_FrontEnd/static/js/main.30fc9008.js",
-    "static/media/cat-1.jpg": "/Paridhan_FrontEnd/static/media/cat-1.aa15048c6d1dc6572a81.jpg",
+    "main.css": "/Paridhan_FrontEnd/static/css/main.41e543bd.css",
+    "main.js": "/Paridhan_FrontEnd/static/js/main.7383ef95.js",
+    "static/media/home4.jpg": "/Paridhan_FrontEnd/static/media/home4.aa0d06ad27e0cbf1198d.jpg",
+    "static/media/home2.jpg": "/Paridhan_FrontEnd/static/media/home2.6737bb6571de3daf9d3c.jpg",
+    "static/media/home3.jpg": "/Paridhan_FrontEnd/static/media/home3.b77d5287c63f3e6e669d.jpg",
+    "static/media/home1.jpg": "/Paridhan_FrontEnd/static/media/home1.f8dcf3caa47766d2167a.jpg",
+    "static/media/home6.jpg": "/Paridhan_FrontEnd/static/media/home6.de1ccbb03baf6fb67e07.jpg",
     "static/media/banner-img.png": "/Paridhan_FrontEnd/static/media/banner-img.0412d66280a0273effa2.png",
     "static/media/newsletter-bg.jpeg": "/Paridhan_FrontEnd/static/media/newsletter-bg.b6f22313149bdbb35069.jpeg",
-    "static/media/earbuds-prod-1.webp": "/Paridhan_FrontEnd/static/media/earbuds-prod-1.8a82669f0f771bfe5709.webp",
+    "static/media/earbuds-prod-2.webp": "/Paridhan_FrontEnd/static/media/earbuds-prod-2.67477bdbf3f67b3f559d.webp",
     "index.html": "/Paridhan_FrontEnd/index.html",
-    "main.a6b88399.css.map": "/Paridhan_FrontEnd/static/css/main.a6b88399.css.map",
-    "main.30fc9008.js.map": "/Paridhan_FrontEnd/static/js/main.30fc9008.js.map"
+    "main.41e543bd.css.map": "/Paridhan_FrontEnd/static/css/main.41e543bd.css.map",
+    "main.7383ef95.js.map": "/Paridhan_FrontEnd/static/js/main.7383ef95.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6b88399.css",
-    "static/js/main.30fc9008.js"
+    "static/css/main.41e543bd.css",
+    "static/js/main.7383ef95.js"
   ]
 }
