@@ -31,9 +31,9 @@ const Header = () => {
                 < div className="header-content" >
                     <ul className="left">
                         <li>Home</li>
-                        <li>About</li>
-                        <li>PCC</li>
                         <li>Categories</li>
+                        <li>Login</li>
+                        <li>PCC</li>
                     </ul>
                     <div className="center">Paridhan</div>
                     <div className="right">
